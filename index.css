@@ -391,9 +391,10 @@
         }
 
         .navbar {
+            border: #FF8C00 2px solid;
             display: flex;
             justify-content: center;
-            padding: 15px 0;
+            padding: 5px 0;
         }
 
         .nav-links {
@@ -403,6 +404,9 @@
         }
 
         .nav-links li {
+            border: #fdfdfd 2px solid;
+            padding: 3px;
+            border-radius: 15px;
             font-size: 1.1rem;
         }
 
